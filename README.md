@@ -8,13 +8,13 @@
 
 - 🔭 I’m currently working on [WEBSCRAPPING](https://github.com/Lakszy/WebScrap)
 
-- 🌱 I’m currently learning **Genrative AI ReactNative and Unit Testing**
+- 🌱 I’m currently learning **Generative AI ReactNative and Unit Testing**
 
 - 🤝 I’m looking for help with [COMPANION-AI](https://github.com/Lakszy/YOUR-AI-COMPANION)
 
-- 👨‍💻 All of my projects are available at [https://6507fdfaba445e3c0f3ccdaa--cerulean-conkies-5b5e42.netlify.app/](https://6507fdfaba445e3c0f3ccdaa--cerulean-conkies-5b5e42.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://lakshaykhattar.netlify.app/)
 
-- 💬 Ask me about **Reactjs,AI,Finance,Javascript**
+- 💬 Ask me about **Reactjs, AI, Finance, Javascript**
 
 - 📫 How to reach me **lakshaykhattar0208@gmail.com**
 
