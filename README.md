@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with [COMPANION-AI](https://github.com/Lakszy/YOUR-AI-COMPANION)
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://lakshaykhattar.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://lakshay-khattar.netlify.app/)
 
 - 💬 Ask me about **Reactjs, AI, Finance, Javascript**
 
