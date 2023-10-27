@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lakszy" alt="lakszy" /></a> </p>
 
-- 🔭 I’m currently working on [WEBSCRAPPING](https://github.com/Lakszy/WebScrap)
+- 🔭 I’m currently working on [WEBSCRAPPING](https://github.com/Lakszy/webscrapp)
 
 - 🌱 I’m currently learning **Generative AI ReactNative and Unit Testing**
 
