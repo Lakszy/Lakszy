@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lakshay Khattar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h2 align="center">A passionate FullStack MERN developer from India</h2>
 <img src="https://art.pixilart.com/sr2712ab0b35ecd.gif" height="400px"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakszy&label=Profile%20views&color=0e75b6&style=flat" alt="lakszy" /> </p>
@@ -12,13 +12,13 @@
 
 - 🤝 I’m looking for help with [COMPANION-AI](https://github.com/Lakszy/YOUR-AI-COMPANION)
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://lakshay-khattar.netlify.app/)
+- 👨‍💻 All of my projects are available at [**Portfolio**](https://lakshay-khattar.netlify.app/)
 
 - 💬 Ask me about **Reactjs, AI, Finance, Javascript**
 
 - 📫 How to reach me **lakshaykhattar0208@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Ibm1S_KXwEaWHuzrktSacA9IET4_rfHt/view?usp=sharing](https://drive.google.com/file/d/1Ibm1S_KXwEaWHuzrktSacA9IET4_rfHt/view?usp=sharing)
+- 📄 Know about my experiences [**RESUME**](https://drive.google.com/file/d/1q7MIVrAtDK2HAj5zUYVbteBH6c48X5Wa/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
