@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lakshay Khattar</h1>
-<h2 align="center">A passionate FullStack MERN developer from India</h2>
+<h2 align="center">A Passionate FULLSTACK MERN DEVELOPER From India</h2>
 <img src="https://art.pixilart.com/sr2712ab0b35ecd.gif" height="400px"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakszy&label=Profile%20views&color=0e75b6&style=flat" alt="lakszy" /> </p>
