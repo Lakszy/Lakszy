@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lakshay Khattar</h1>
+<h1 align="center">Hi🤌🏻, I'm Lakshay Khattar</h1>
 <h2 align="center">A Passionate FULLSTACK MERN DEVELOPER From India</h2>
 <img src="https://art.pixilart.com/sr2712ab0b35ecd.gif" height="400px"/>
 
