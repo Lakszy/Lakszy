@@ -1,10 +1,8 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-
 <h1 align="center">Hi🤌🏻, I'm Lakshay Khattar</h1>
-<h2 align="center">A Passionate FULLSTACK MERN DEVELOPER From India</h2>
-<img src="https://art.pixilart.com/sr2712ab0b35ecd.gif" height="400px"/>
-
+<h2 align="center">A Passionate FullStack Developer(MERN) From India</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakszy&label=Profile%20views&color=0e75b6&style=flat" alt="lakszy" /> </p>
+<img align="center" src="https://art.pixilart.com/sr2712ab0b35ecd.gif" height="700px" width="900px"/>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lakszy" alt="lakszy" /></a> </p>
 
