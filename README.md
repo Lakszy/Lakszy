@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+
 <h1 align="center">Hi🤌🏻, I'm Lakshay Khattar</h1>
 <h2 align="center">A Passionate FULLSTACK MERN DEVELOPER From India</h2>
 <img src="https://art.pixilart.com/sr2712ab0b35ecd.gif" height="400px"/>
@@ -22,6 +24,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://twitter.com/LakshayKhattar2" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://linkedin.com/in/lakshaykhattar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lakshaykhattar" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22346256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22346256" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/https://www.codechef.com/users/lakshaykhattar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/lakshaykhattar" height="30" width="40" /></a>
