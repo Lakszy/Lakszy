@@ -1,4 +1,4 @@
-<h1 align="center">Hi🤌🏻, I'm Lakshay Khattar</h1>
+<h1 align="center">Hola🤌🏻,Yo soy Lakshay Khattar</h1>
 <h2 align="center">A Passionate FullStack Developer(MERN) From India</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakszy&label=Profile%20views&color=0e75b6&style=flat" alt="lakszy" /> </p>
 <img align="center" src="https://art.pixilart.com/sr2712ab0b35ecd.gif" height="700px" width="900px"/>
