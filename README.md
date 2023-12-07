@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [WEBSCRAPPING](https://github.com/Lakszy/webscrapp)
 
-- 🌱 I’m currently learning **Generative AI ReactNative and Unit Testing**
+- 🌱 I’m currently learning **Backend,Generative AI ReactNative and Unit Testing**
 
 - 🤝 I’m looking for help with [COMPANION-AI](https://github.com/Lakszy/YOUR-AI-COMPANION)
 
