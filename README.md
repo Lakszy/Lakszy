@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on [WEBSCRAPPING](https://github.com/Lakszy/webscrapp)
 
-- 🌱 I’m currently learning **Backend,Generative AI ReactNative and Unit Testing**
+- 🌱 I’m currently learning **Backend, BlockChain , Generative AI ReactNative and Unit Testing**
 
 - 🤝 I’m looking for help with [COMPANION-AI](https://github.com/Lakszy/YOUR-AI-COMPANION)
 
-- 👨‍💻 All of my projects are available at [**Portfolio**](https://lakshay-khattar.netlify.app/)
+- 👨‍💻 All of my projects are available at [**Portfolio**](https://khattar.netlify.app/)
 
 - 💬 Ask me about **Reactjs, AI, Finance, Javascript**
 
@@ -26,7 +26,7 @@
   <a href="https://twitter.com/LakshayKhattar2" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://linkedin.com/in/lakshaykhattar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lakshaykhattar" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22346256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22346256" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/lakshaykhattar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/lakshaykhattar" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/lakshaykhattar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/lakshaykhattar" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/lakshaykhattar0208/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/lakshaykhattar0208/" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
