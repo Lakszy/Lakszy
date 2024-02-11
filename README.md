@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [WEBSCRAPPING](https://github.com/Lakszy/webscrapp)
 
-- 🌱 I’m currently learning **Backend, BlockChain , Generative AI ReactNative and Unit Testing**
+- 🌱 I’m currently learning **Backend, BlockChain, Generative AI ReactNative and Unit Testing**
 
 - 🤝 I’m looking for help with [COMPANION-AI](https://github.com/Lakszy/YOUR-AI-COMPANION)
 
@@ -32,7 +32,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,php,graphql,nodejs,express,wordpress,git,github,gitlab,bootstrap,c,cpp,discord,figma,heroku,mongodb,mysql,netlify,nextjs,py,redux,tailwind,vercel,vscode," />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,php,graphql,nodejs,express,wordpress,git,github,gitlab,bootstrap,c,cpp,figma,heroku,mongodb,mysql,netlify,nextjs,py,redux,tailwind,vercel,vscode," />
   </a>
 </p></p>
 
